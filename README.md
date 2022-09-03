@@ -1,0 +1,2 @@
+# cb-app
+Processo de desenvolvimento inicial de um aplicativo voltado para educação. Uma forma alternativa e reolucionária de se conviver no ambiete escolar, automatizando processos manuais que tem alto potencial de melhora nesses ambientes. A ideia é agilizar ao máximo esses processos que tomam tempo (que é algo muito valioso nas escolas), e que podem se tornar grandes facilitadores nas escolas. Enfim, bora codar?
